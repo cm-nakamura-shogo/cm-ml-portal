@@ -1,4 +1,4 @@
 # Table of contents
 
-* [cm-ml-portal](README.md)
-* [ブログイベント](buroguibento.md)
+* [はじめに](README.md)
+* [ブログイベント](blog-event.md)
